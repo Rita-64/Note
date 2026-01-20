@@ -404,7 +404,7 @@ const g = 9.8
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>JavaScript 基础 - 隐式转换</title>
+  <title>Document</title>
 </head>
 <body>
   <script>
